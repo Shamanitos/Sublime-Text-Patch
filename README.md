@@ -1,9 +1,9 @@
 
-# 🗝 Sublime Text 4152 License Key Patcher 
+# 🗝 Sublime Text 4169 License Key Patcher 
 
 ## 💻 Installation
 
-✅ Download and install Sublime Text 41** as usual through the setup executable file
+✅ Download and install Sublime Text 4169 as usual through the setup executable file
 
 ✅ Replace the default sublime_text.exe file located in C:\Program Files\Sublime Text with the patched exe file from this repo
 
