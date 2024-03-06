@@ -32,4 +32,4 @@
 ✅ Enjoy! 🥳
 
 
-![alt text](https://github.com/ChathurangaBW/sublime-text-4152-license-key/blob/main/269644178-dc6b73f7-626b-481e-bbfe-1612fb1735e0.png)
+![alt text](https://github.com/Shamanitos/Sublime-Text-Patch/blob/main/sublime_reg.png)
