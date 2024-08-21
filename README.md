@@ -1,7 +1,9 @@
 
 # 🗝 Sublime Text 4180 License Key Patcher 
 
-## 💻 Windows Installation
+<details>
+  
+<summary> ## 💻 Windows Installation </summary>
 
 ✅ Download and install Sublime Text 4169 as usual through the setup executable file
 
@@ -30,7 +32,10 @@
 
 ✅ Replace original sublime_text.exe with patched exe
 
-✅ Enjoy! 🥳
+✅ Enjoy! 🥳 
+
+</details>
+
 
 
 ## 💻 Linux Installation
