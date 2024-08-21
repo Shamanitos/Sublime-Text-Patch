@@ -1,9 +1,13 @@
 
 # 🗝 Sublime Text 4180 License Key Patcher 
 
+
+
 <details>
   
 <summary> ## 💻 Windows Installation </summary>
+
+
 
 ✅ Download and install Sublime Text 4169 as usual through the setup executable file
 
@@ -34,11 +38,17 @@
 
 ✅ Enjoy! 🥳 
 
+
 </details>
 
 
 
-## 💻 Linux Installation
+<details>
+
+  
+<summary> ## 💻 Linux Installation </summary>
+
+
 
 ✅ Download and install Sublime Text 4180 as usual through the terminal
 
@@ -68,6 +78,8 @@
 ✅ Replace original sublime_text with patched one and use the command 'sudo chmod u+x sublime_text'
 
 ✅ Enjoy! 🥳
+
+</details>
 
 
 ![alt text](https://github.com/Shamanitos/Sublime-Text-Patch/blob/main/sublime_reg.png)
