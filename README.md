@@ -1,5 +1,4 @@
-
-# 🗝 Sublime Text 4180 License Key Patcher 
+# 🗝 Sublime Text 4180 License Key Patcher </summary>
 
 
 
@@ -83,3 +82,21 @@
 
 
 ![alt text](https://github.com/Shamanitos/Sublime-Text-Patch/blob/main/sublime_reg.png)
+
+
+# 🗝 Sublime Text 4200 License Key Patcher 
+
+
+<details>
+  
+✅ Download and install Sublime Text 4200 as usual through the setup executable file
+
+✅ Open Terminal / Powershell as Administrator
+
+✅ Paste this command
+
+    py -c "open('C:\\Program Files\\Sublime Text\\sublime_text.exe', 'rb+').write(open('C:\\Program Files\\Sublime Text\\sublime_text.exe', 'rb').read().replace(b'\x0F\xB6\x51\x05\x83\xF2\x01', b'\xC6\x41\x05\x01\xB2\x00\x90'))"
+
+✅ Enjoy full featured Sublime Text for free! 🎉
+
+</details>
